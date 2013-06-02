@@ -1,6 +1,20 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SpaceshipController.js">
+    <Files>
+      <File FileName="Assets\gameController.js" Line="1" Column="1" />
+      <File FileName="Assets\AlienGenerator.js" Line="32" Column="1" />
+      <File FileName="Assets\AlienController.js" Line="12" Column="1" />
+      <File FileName="Assets\SpaceshipController.js" Line="31" Column="5" />
+      <File FileName="Assets\LevelController.js" Line="22" Column="28" />
+      <File FileName="Assets\BorderController.js" Line="1" Column="1" />
+      <File FileName="Assets\GameOver.js" Line="1" Column="1" />
+      <File FileName="Assets\LaserController.js" Line="1" Column="1" />
+      <File FileName="Assets\MenuGenerator.js" Line="63" Column="1" />
+      <File FileName="Assets\SwarmController.js" Line="1" Column="1" />
+      <File FileName="Assets\winController.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
